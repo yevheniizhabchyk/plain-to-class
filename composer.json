@@ -1,6 +1,5 @@
 {
   "name": "yevheniizhabchyk/plain-to-class",
-  "version": "3.0.5",
   "description": "Class-transformer to transform your dataset into a structured object",
   "minimum-stability": "dev",
   "prefer-stable": true,
